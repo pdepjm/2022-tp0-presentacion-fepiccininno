@@ -1,7 +1,9 @@
 # Presentación
 
-## Estudiante: _Franco Ezequiel Piccininno_
+## *Estudiante:* _Franco Ezequiel Piccininno_
 
 ![mi foto](f1.jpg)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+## *Descripción:* _Creo que soy impulsivo, vi el mensaje "Completar con tu nombre" y lo hice inmediatamente, antes de leer el resto de las instrucciones y por eso se llama "Update README.md". Como el profe usó tanto los Simpsons en la clase, agrego un meme._
+
+![meme](meme1.jpg)
